@@ -1,0 +1,5 @@
+dags/configurations.py
+.env
+logs
+__pycache__
+jobs
